@@ -1,6 +1,6 @@
 // Java Program to print pattern
 // Square hollow pattern
-//import java.util.*;
+
 
 public class squareHollowPartten{
     // Function to demonstrate pattern
